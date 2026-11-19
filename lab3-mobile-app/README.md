@@ -10,4 +10,4 @@ This project uses Thunkable to create a mobile app prototype for the WOC consult
 
 ## Screenshots
 
-Screenshots of the mobile app screens will be uploaded to this folder.
+Screenshots of the mobile app screens are included in this folder.
